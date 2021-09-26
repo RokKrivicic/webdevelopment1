@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-family:Lucida Console;
+}
+
+h2 {
+    color: green;
+    font-family:fantasy;
+    font-style: oblique;
+}
+
+h3 {
+    color: yellow;
+    font-family:Times New Roman;
+    font-family: ui-sans-serif;
+}
+
+p{
+    color: grey;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+table {
+    background-color: white;
+}
+
+ul {
+    list-style-type: none
+}
